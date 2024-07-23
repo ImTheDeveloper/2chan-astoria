@@ -2,9 +2,9 @@ module.exports = (board, thread, useHttps = false) => {
 	let baseUrl
 
 	if (useHttps) {
-		baseUrl = 'https://a.4cdn.org'
+		baseUrl = 'https://2ch.hk'
 	} else {
-		baseUrl = 'http://a.4cdn.org'
+		baseUrl = 'http://2ch.hk'
 	}
 
 	if (board && !thread) {
