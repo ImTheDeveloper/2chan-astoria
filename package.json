@@ -1,7 +1,7 @@
 {
-  "name": "astoria",
-  "version": "1.0.4",
-  "description": "A 4chan board and thread monitor.",
+  "name": "2chan-astoria",
+  "version": "0.0.1",
+  "description": "A 2chan board and thread monitor.",
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js",
@@ -10,10 +10,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/seqi/astoria.git"
+    "url": "git+https://github.com/ImTheDeveloper/2chan-astoria.git"
   },
   "keywords": [
-    "4chan",
+    "2chan",
     "board",
     "thread",
     "post",
@@ -23,14 +23,14 @@
     "listener"
   ],
   "author": {
-    "name": "Seqi",
-    "url": "https://seqi.moe"
+    "name": "ImTheDeveloper",
+    "url": "https://github.com/ImTheDeveloper"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/seqi/astoria/issues"
+    "url": "https://github.com/ImTheDeveloper/2chan-astoria/issues"
   },
-  "homepage": "https://github.com/seqi/astoria#readme",
+  "homepage": "https://github.com/ImTheDeveloper/2chan-astoria#readme",
   "dependencies": {
     "node-fetch": "^2.6.0"
   },
